@@ -1,6 +1,0 @@
-C:\Users\Sash\Desktop\03_begin\Template\bin\Template.dll.config
-C:\Users\Sash\Desktop\03_begin\Template\bin\Template.dll
-C:\Users\Sash\Desktop\03_begin\Template\bin\Template.pdb
-C:\Users\Sash\Desktop\03_begin\Template\obj\Debug\Templates.csprojResolveAssemblyReference.cache
-C:\Users\Sash\Desktop\03_begin\Template\obj\Debug\Template.dll
-C:\Users\Sash\Desktop\03_begin\Template\obj\Debug\Template.pdb
