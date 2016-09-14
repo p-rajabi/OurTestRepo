@@ -4,3 +4,13 @@ C:\Users\Sash\Desktop\03_begin\Template\bin\Template.pdb
 C:\Users\Sash\Desktop\03_begin\Template\obj\Debug\Templates.csprojResolveAssemblyReference.cache
 C:\Users\Sash\Desktop\03_begin\Template\obj\Debug\Template.dll
 C:\Users\Sash\Desktop\03_begin\Template\obj\Debug\Template.pdb
+C:\Users\Sash\Desktop\03_begin\Template\bin\IronRuby.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\IronRuby.Libraries.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\IronRuby.Libraries.Yaml.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\Microsoft.Dynamic.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\Microsoft.Scripting.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\SassAndCoffee.AspNet.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\SassAndCoffee.Core.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\SassAndCoffee.JavaScript.dll
+C:\Users\Sash\Desktop\03_begin\Template\bin\SassAndCoffee.Ruby.dll
